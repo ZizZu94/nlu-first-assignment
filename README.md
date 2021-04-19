@@ -4,7 +4,7 @@ Natural Language Understanding first assignment.
 
 The objective of this assignment is to learn how to work with dependency graphs by defining functions.
 
-The file `notebook.ipynb` is a notebook, which contains all python codes and the report. I used [Google Colab](https://colab.research.google.com/) to create it.
+The file `notebook.ipynb` is a notebook, which contains all python codes and the report. Use [Google Colab](https://colab.research.google.com/) or Jupyter notebook to open it.
 
 ## Student:
 
